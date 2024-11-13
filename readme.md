@@ -27,7 +27,7 @@ To run this project, you need the following Python packages:
 Install them using:
 ```bash
 pip install geopandas folium pandas matplotlib numpy
-
+```
 ![image](https://github.com/user-attachments/assets/f07e11f4-150d-472c-80ea-c3971230ce17)
 
 ![image](https://github.com/user-attachments/assets/f426ae9c-bdcb-43a6-8899-b446993cfdc4)
